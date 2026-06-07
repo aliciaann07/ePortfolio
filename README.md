@@ -5,6 +5,9 @@ This code review was completed for my CS 499 Computer Science Capstone course. I
 [Watch my CS 499 Capstone Code Review](https://youtu.be/DzL4i1b7IUw)
 
 
+
+
+
 ## Enhancement One: Software Design and Engineering
 
 For Enhancement One, I improved my CS 360 Weight Tracking Mobile App by adding a workout history feature. This enhancement allows users to log workout activity, including the workout date, exercise name, duration, and calories burned. The app was also updated to store workout records in SQLite and support adding, updating, deleting, and viewing workout history records.
