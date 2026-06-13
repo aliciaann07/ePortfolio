@@ -31,3 +31,17 @@ This enhancement demonstrates skills in C++ programming, binary search trees, re
 [View Enhancement Two Narrative](Module%204%20-%20Enhancement%20Two%20Narrative.docx)
 
 [Download Enhancement Two Artifact](Module%204%20-%20Enhancement%20Two.zip)
+
+
+
+
+
+## Enhancement Three: Databases
+
+For Enhancement Three, I improved my CS 340 Client-Server Development project by enhancing the database query functionality and dashboard filtering logic. This enhancement allows the dashboard to retrieve and display animal shelter records more effectively using stronger MongoDB query criteria, including breed, sex, age range, and outcome type.
+
+This enhancement demonstrates skills in Python programming, MongoDB, CRUD operations, database query design, dashboard integration, Jupyter Dash, Pandas, Plotly, Dash Leaflet, data retrieval, filtering, testing, debugging, and error handling.
+
+[View Enhancement Three Narrative](Module%205%20-%20Enhancement%20Three%20Narrative.docx)
+
+[Download Enhancement Three Artifact](Module%205%20-%20Enhancement%20Three.zip)
