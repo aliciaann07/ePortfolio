@@ -17,3 +17,17 @@ This enhancement demonstrates skills in mobile application development, Java pro
 [View Enhancement One Narrative](Module%203%20-%20Enhancement%20One%20Narrative.docx)
 
 [Download Enhancement One Artifact](Module%203%20-%20Enhancement%20One.zip)
+
+
+
+
+
+## Enhancement Two: Algorithms and Data Structures
+
+For Enhancement Two, I improved my CS 300 Advising Assistance Program by enhancing the prerequisite schedule feature. This enhancement allows users to view a clearer prerequisite-order schedule, see how many courses are included in the schedule, view prerequisite counts for each course, and better understand course prerequisite relationships.
+
+This enhancement demonstrates skills in C++ programming, binary search trees, recursive searching, in-order traversal, maps, vectors, queues, prerequisite validation, algorithmic logic, testing, debugging, and data structure design.
+
+[View Enhancement Two Narrative](Module%204%20-%20Enhancement%20Two%20Narrative.docx)
+
+[Download Enhancement Two Artifact](Module%204%20-%20Enhancement%20Two.zip)
