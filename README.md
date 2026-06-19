@@ -37,7 +37,7 @@ This enhancement demonstrates skills in mobile application development, Java pro
 
 [View Enhancement One Narrative](Module%203%20-%20Enhancement%20One%20Narrative.docx)
 
-[Download Enhancement One Artifact](Module%203%20-%20Enhancement%20One.zip)
+[Download Original and Enhancement One Artifact](Module%203%20-%20Enhancement%20One.zip)
 
 
 
@@ -51,7 +51,7 @@ This enhancement demonstrates skills in C++ programming, binary search trees, re
 
 [View Enhancement Two Narrative](Module%204%20-%20Enhancement%20Two%20Narrative.docx)
 
-[Download Enhancement Two Artifact](Module%204%20-%20Enhancement%20Two.zip)
+[Download Original and Enhancement Two Artifact](Module%204%20-%20Enhancement%20Two.zip)
 
 
 
@@ -65,4 +65,4 @@ This enhancement demonstrates skills in Python programming, MongoDB, CRUD operat
 
 [View Enhancement Three Narrative](Module%205%20-%20Enhancement%20Three%20Narrative.docx)
 
-[Download Enhancement Three Artifact](Module%205%20-%20Enhancement%20Three.zip)
+[Download Original and Enhancement Three Artifact](Module%205%20-%20Enhancement%20Three.zip)
