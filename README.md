@@ -1,3 +1,7 @@
+# ePortfolio
+
+
+
 ## Professional Self-Assessment
 
 Completing the Computer Science program and developing my ePortfolio has helped me recognize how much I have grown as a software engineering student and future computer science professional. When I began the program, I was mainly focused on learning how to write code that worked. Through my coursework, I learned that successful software development also requires problem-solving, planning, testing, security, communication, and understanding the needs of the people who will use the final product. These experiences shaped my goal of becoming a software engineer or full-stack developer who creates practical, reliable, and user-focused applications.
